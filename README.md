@@ -1,3 +1,3 @@
 # ResearchGate_Analysis
 
-A easy crawler used to retrieve the _author of researchgate users
+A easy crawler used to get and analysis the co_author of researchgate users
